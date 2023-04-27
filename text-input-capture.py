@@ -10,7 +10,9 @@ while True:
     #create borders around the quote
     top_border = "====" * 10 + "\n"
     bottom_border = "\n" + "====" * 10 + "\n"
-    frame = top_border + quote + bottom_border
+    #............ ========================================
+    side_border = "|                                      |\n"
+    frame = top_border + quote + bottom_border + side_border
     #write it over to the file
     file.write(frame)
     #if there are more line of text to input, type y for yes/continue and n for no/stop
