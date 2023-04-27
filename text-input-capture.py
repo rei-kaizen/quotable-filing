@@ -1,5 +1,8 @@
 #open mylife.txt file with the write method
 file = open("mylife.txt", "w" )
+#put a title
+file.write("            MY LIFE QUOTES  \n\n"     )
+#..........========================================
 
 #use a while loop to keep asking for user text input and store in file until stopped
 while True:
