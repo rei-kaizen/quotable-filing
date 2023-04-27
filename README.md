@@ -1,5 +1,5 @@
-# the-write-stuff
-A hanging frame style containing quotes submitted by user
+# Quotable Filing
+Using a file to store inputted quotes with hanging frame style 
 > Write a method in python to write multiple line of text contents into a text file mylife.txt. See sample output:
 ```
 Enter line: Beautiful is better than ugly.
