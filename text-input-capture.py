@@ -1,8 +1,15 @@
 #open mylife.txt file with the write method
 file = open("mylife.txt", "w" )
 #put a title
-file.write("            MY LIFE QUOTES  \n\n"     )
+#display the output like a hanging frame on the wall
+file.write("           ================== \n"      )
+file.write("           + MY LIFE QUOTES +  \n"     )
+file.write("           ================== \n"      )
+file.write("          /                  \ \n"     )
+file.write("         /                    \ \n"    )
+file.write("        /                      \ \n"   )
 #..........========================================
+
 
 #use a while loop to keep asking for user text input and store in file until stopped
 while True:
