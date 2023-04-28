@@ -16,7 +16,7 @@ Then the program displays their input in the said file in a format that resemble
 <br>
 
 ## 📄 Documentation 
-<details><summary><h2> 🤔 Usage </h3></summary>
+<details><summary><h3> 🤔 Usage </h3></summary>
 
 -----
 
